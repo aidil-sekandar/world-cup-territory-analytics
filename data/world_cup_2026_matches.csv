@@ -1,0 +1,5 @@
+stage,group,match_no,date,team,opponent,result,goals,goals_conceded,possession,xg,shots,shots_on_target,shots_inside_box,shots_outside_box,big_chances,touches_in_box,final_third_entries,passes,accurate_passes,final_third_passes_attempted,final_third_passes_completed,long_ball_attempts,long_ball_completed,recoveries,interceptions,errors_leading_to_shot,errors_leading_to_goal
+Group,A,1,2026-06-11,Mexico,South Africa,W,2,0,61,1.46,16,4,9,7,2,20,53,520,467,107,83,48,31,40,8,0,0
+Group,A,1,2026-06-11,South Africa,Mexico,L,0,2,39,0.07,3,2,1,2,0,2,39,334,272,56,25,46,17,44,7,1,1
+Group,A,2,2026-06-11,South Korea,Czechia,W,2,1,62,2.30,15,6,10,5,4,24,65,541,469,140,106,61,30,36,9,1,NULL
+Group,A,2,2026-06-11,Czechia,South Korea,L,1,2,38,0.83,7,4,5,2,1,12,52,327,230,105,54,69,23,46,6,0,NULL
